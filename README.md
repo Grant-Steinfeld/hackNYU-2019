@@ -1,10 +1,6 @@
-
-
 # IBM Watson and Node-RED
 
 ## Presentation is on GitHub  https://bit.ly/2GruOrb
-
-
 
 ![mainframe](./resources/images/mainframe.jpg)
 

@@ -1,6 +1,5 @@
 
 ## Node-RED Watson Workshop
-
 ### Run on  Raspberry Pi 3 - Model B
 #### what you will need
 micro SD card 32 Mb
