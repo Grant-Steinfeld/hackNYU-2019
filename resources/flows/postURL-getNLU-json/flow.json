@@ -1,0 +1,1 @@
+[{"id":"8b397f9e.316438","type":"template","z":"b84b95e5.8aada","name":"","field":"payload","fieldType":"msg","format":"handlebars","syntax":"mustache","template":"https://{{payload.uri}}","output":"str","x":397.5,"y":237,"wires":[["dc97a3e6.af69a8"]]}]
