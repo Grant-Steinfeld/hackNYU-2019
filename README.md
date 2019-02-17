@@ -1,18 +1,28 @@
 # IBM Watson and Node-RED
+Presentation GitHub: https://bit.ly/2GruOrb
 
-## Presentation is on GitHub  https://bit.ly/2GruOrb
+
+
+Big Business Mainframe
 
 ![mainframe](./resources/images/mainframe.jpg)
 
+
+GaryKasparov beaten!
+![bigblue](./resources/images/GaryKasparov-vs-DeepBlue.png)
+
+Watson wins at Jepordy
 ![bigblue](./resources/images/big-blue.jpg)
 
-#### from chess, to jepordy to `debate`
+Watson `debate`
+
 ![Gordon Ramsay](./resources/images/ramsy-debate-watson.jpg)
 
 
 #### getting started with Watson
 https://ibm.co/2Hlmnuy
 
+Watson is a collection of AI / ML and analytic offerings on IBM Cloud.
 
 #### Watson showed in Node-RED
 ![nr logo](./resources/images/node-red.png)
